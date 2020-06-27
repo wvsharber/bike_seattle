@@ -1,3 +1,6 @@
+#Data Files
+*.csv
+
 #DS_Store from Mac
 *.DS_Store
 

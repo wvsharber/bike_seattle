@@ -2,7 +2,7 @@
 
 Seattle often tops lists of the most bike friendly cities in the U.S., with many miles of dedicated bike trails, bike lanes, and other bike-friendly infrastructure. The City of Seattle set a goal in 2014 to quadruple ridership by 2030. As part of that effort, the city collects data on the number of bike riders who utilize various bike infrastructure in Seattle. Three of these bike counters record hourly data 24/7/365, which is uploaded daily to data.seattle.gov. 
 
-Using bike ridership data from the City of Seattle and weather data from the Night Sky API, I use regression techniques to create a predictive model for the number of bicyclists per day based on weather and date features. 
+Using bike ridership data from the City of Seattle and weather data from the Dark Sky API, I use regression techniques to create a predictive model for the number of bicyclists per day based on weather and date features. 
 
 ## Repo Setup and Guide
 
